@@ -1,0 +1,4 @@
+﻿  SpecklePatternTriangle.cpp
+d:\google drive\master\mv\projekat\speckleapp\specklepatterntriangle\specklepatterntriangle\specklepatterntriangle.cpp(92): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\google drive\master\mv\projekat\speckleapp\specklepatterntriangle\specklepatterntriangle\specklepatterntriangle.cpp(93): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  SpecklePatternTriangle.vcxproj -> D:\Google Drive\Master\MV\Projekat\SpeckleApp\SpecklePatternTriangle\x64\Debug\SpecklePatternTriangle.exe
